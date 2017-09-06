@@ -1,0 +1,6 @@
+[package]
+name = "gzrs"
+version = "0.1.0"
+authors = ["Adam Michalik <adam@michalik.es>"]
+
+[dependencies]
